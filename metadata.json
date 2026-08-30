@@ -1,0 +1,8 @@
+{
+  "name": "Hanwha Ocean HERO 2.0 WORKSHOP - 통합 출석 체크 시스템",
+  "description": "한화오션 HERO Workshop 2.0 워크숍 참여자 실시간 출석 체크, 좌석/반/조 확인, 대형 QR 배너 및 관리자 대시보드 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

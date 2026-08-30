@@ -1,0 +1,199 @@
+{
+  "participants": [
+    {
+      "id": "p-1",
+      "employee_id": "20260001",
+      "employee_name": "홍길동",
+      "round": "1차",
+      "workshop_date": "2026-08-30",
+      "location": "거제",
+      "class_name": "1반",
+      "group_number": "1조",
+      "is_checked_in": true,
+      "attendance_time": "2026-08-30 08:45:12",
+      "attendance_method": "qr",
+      "attempt_count": 1,
+      "attempt_logs": [
+        {
+          "timestamp": "2026-08-30 08:45:12",
+          "method": "qr"
+        }
+      ]
+    },
+    {
+      "id": "p-2",
+      "employee_id": "20260002",
+      "employee_name": "김오션",
+      "round": "1차",
+      "workshop_date": "2026-08-30",
+      "location": "거제",
+      "class_name": "1반",
+      "group_number": "2조",
+      "is_checked_in": true,
+      "attendance_time": "2026-08-30 08:50:30",
+      "attendance_method": "qr",
+      "attempt_count": 1,
+      "attempt_logs": [
+        {
+          "timestamp": "2026-08-30 08:50:30",
+          "method": "qr"
+        }
+      ]
+    },
+    {
+      "id": "p-3",
+      "employee_id": "20260003",
+      "employee_name": "이한화",
+      "round": "1차",
+      "workshop_date": "2026-08-30",
+      "location": "거제",
+      "class_name": "2반",
+      "group_number": "1조",
+      "is_checked_in": false,
+      "attempt_count": 0,
+      "attempt_logs": []
+    },
+    {
+      "id": "p-4",
+      "employee_id": "20260004",
+      "employee_name": "박미래",
+      "round": "1차",
+      "workshop_date": "2026-08-30",
+      "location": "거제",
+      "class_name": "2반",
+      "group_number": "3조",
+      "is_checked_in": true,
+      "attendance_time": "2026-08-30 08:58:19",
+      "attendance_method": "admin",
+      "attempt_count": 2,
+      "attempt_logs": [
+        {
+          "timestamp": "2026-08-30 08:52:10",
+          "method": "qr"
+        },
+        {
+          "timestamp": "2026-08-30 08:58:19",
+          "method": "admin"
+        }
+      ]
+    },
+    {
+      "id": "p-5",
+      "employee_id": "20260005",
+      "employee_name": "최성장",
+      "round": "1차",
+      "workshop_date": "2026-08-30",
+      "location": "거제",
+      "class_name": "3반",
+      "group_number": "2조",
+      "is_checked_in": false,
+      "attempt_count": 0,
+      "attempt_logs": []
+    },
+    {
+      "id": "p-6",
+      "employee_id": "20260006",
+      "employee_name": "정디지털",
+      "round": "1차",
+      "workshop_date": "2026-08-30",
+      "location": "서울",
+      "class_name": "단일반",
+      "group_number": "1조",
+      "is_checked_in": true,
+      "attendance_time": "2026-08-30 08:40:05",
+      "attendance_method": "qr",
+      "attempt_count": 1,
+      "attempt_logs": [
+        {
+          "timestamp": "2026-08-30 08:40:05",
+          "method": "qr"
+        }
+      ]
+    },
+    {
+      "id": "p-7",
+      "employee_id": "20260007",
+      "employee_name": "강바다",
+      "round": "1차",
+      "workshop_date": "2026-08-30",
+      "location": "서울",
+      "class_name": "단일반",
+      "group_number": "2조",
+      "is_checked_in": false,
+      "attempt_count": 0,
+      "attempt_logs": []
+    },
+    {
+      "id": "p-8",
+      "employee_id": "20260008",
+      "employee_name": "윤혁신",
+      "round": "1차",
+      "workshop_date": "2026-08-30",
+      "location": "부산",
+      "class_name": "단일반",
+      "group_number": "1조",
+      "is_checked_in": true,
+      "attendance_time": "2026-08-30 08:55:40",
+      "attendance_method": "qr",
+      "attempt_count": 1,
+      "attempt_logs": [
+        {
+          "timestamp": "2026-08-30 08:55:40",
+          "method": "qr"
+        }
+      ]
+    },
+    {
+      "id": "p-9",
+      "employee_id": "20260009",
+      "employee_name": "임기술",
+      "round": "2차",
+      "workshop_date": "2026-09-06",
+      "location": "거제",
+      "class_name": "1반",
+      "group_number": "1조",
+      "is_checked_in": false,
+      "attempt_count": 0,
+      "attempt_logs": []
+    },
+    {
+      "id": "p-10",
+      "employee_id": "20260010",
+      "employee_name": "송글로벌",
+      "round": "2차",
+      "workshop_date": "2026-09-06",
+      "location": "거제",
+      "class_name": "2반",
+      "group_number": "2조",
+      "is_checked_in": false,
+      "attempt_count": 0,
+      "attempt_logs": []
+    }
+  ],
+  "codes": [
+    {
+      "id": "code-1",
+      "workshop_date": "2026-08-30",
+      "location": "거제",
+      "attendance_code": "맥스",
+      "is_active": true,
+      "time_limit_enabled": false
+    },
+    {
+      "id": "code-2",
+      "workshop_date": "2026-08-30",
+      "location": "서울",
+      "attendance_code": "가드",
+      "is_active": true,
+      "time_limit_enabled": false
+    },
+    {
+      "id": "code-3",
+      "workshop_date": "2026-08-30",
+      "location": "부산",
+      "attendance_code": "테크",
+      "is_active": true,
+      "time_limit_enabled": false
+    }
+  ]
+}
